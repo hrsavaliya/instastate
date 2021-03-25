@@ -2,7 +2,7 @@ import './App.css';
 import React from "react";
 import {Input} from "antd";
 import Odometer from 'react-odometerjs';
-import {getSearchData,intervalgetSearchData} from "../../my-app/src/Actions/App";
+import {getSearchData,intervalgetSearchData} from "../../instastate/src/Actions/App";
 
 
 class App extends React.Component{
