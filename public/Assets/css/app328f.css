@@ -8347,9 +8347,12 @@ header {
     height: 500px;
     width: 100%;
     background: #405de6;
+    /*background: linear-gradient(*/
+    /*        135deg*/
+    /*        ,#4c99b7,#405de6);*/
     background: linear-gradient(
             135deg
-            ,#4c99b7,#405de6);
+            ,#DD2A7B,#FEDA77);
 }
 
 .header-navigation {
@@ -8621,7 +8624,7 @@ main {
 }
 
 #follower-count {
-    font-size: 100px;
+    font-size: 80px;
     font-weight: 600;
     margin: -15px 0 0;
     display: block
